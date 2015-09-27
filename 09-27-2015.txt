@@ -1,0 +1,7 @@
+#Meeting 2 - Requirements
+- brainstormed user features
+- decided what would make 1st iteration
+- decided what technologies where needed for 1st iteration
+- created a backlog of features we would like to implement
+- setup git
+- setup trello board for ideas
