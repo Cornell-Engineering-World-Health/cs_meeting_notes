@@ -1,0 +1,120 @@
+Meeting Notes
+    Coding Question: palandrome-linkedlist
+    Tech analysis
+        Lillyan
+            sms
+                Twilio
+                    0.01/text
+                    discout
+                    price limit
+                    2-way
+                Plivo
+                    0.0025/text
+                    2-way
+                    delivery reports
+                    logs
+                Clickatell
+                    $12 invenstment
+                    0.016 < 10,000 messages (lifetime?)
+            webframworks
+                Frontend
+                    bootstrap (lillyan's choice)
+                        consistent UI
+                        fast
+                        good documentation
+                        little design flexibility
+                    Foundation
+                        well doc
+                        simpler design to bootstrap
+                Backend
+                    Django
+                        works with bootstrap
+                        python
+                        clear model-view-controller
+                        simple project structure
+                        fast to deploy
+            Database
+                MySQL
+                    quick setup
+                    scalable
+            Graphics
+                Inforgram
+                    good docs
+                google Charts
+                    simple
+                    a lot of different capabilities
+        Erin
+            Web Frameworks
+                Backend
+                    Ruby on Rails
+                        OOP
+                        clean/easy to read
+                        Flexibility in implementation
+                        fast to deploy
+                        Infogram package/support
+                    want to learn something new
+                Frontend
+                    HTML+CSS+Javascript
+                        popular
+                        want to learn
+        Frank
+            Web Frameworks
+                Backend
+                    ruby on rails
+                    angular.js
+                        cool to learn
+                    react.js
+                        all about data refresh
+                Frontend
+                    Skeleton.css
+                        more barebones than bootstrap
+            Database
+                MySql
+            Graphics
+                google charts
+                    simple easy
+                jQery visualize
+                    simple
+        Annie
+            Web Frameworks
+                Backend
+                    Ruby on Rails
+                        becoming more popular than django
+                        django might be easier to use
+
+            Databases
+                MySql
+                    industry standard
+                    widely used
+                    bad horizontal scalability
+                    10 GB of storage
+                MongoDB
+                    better scalability
+                    not secure
+                    can't really "join" tables
+                Cluster point
+                    not free
+                    10 GB free storage
+            Graphics
+                google charts
+                D3.js
+            SMS
+                Twilio
+                Plevo
+                    cost better
+                    more api functionality
+    HW
+        Lillyan
+            fronend research/demo
+        Erin
+            D3 reasearch/demo
+        Frank
+            Backend reearch/demo
+        Annie
+            mongoDB reseach/demo
+        Peaky
+            Twilio/Plivo research/demo
+            
+
+
+
