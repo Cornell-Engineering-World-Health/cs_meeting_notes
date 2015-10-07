@@ -1,0 +1,44 @@
+Meeting 10-08-15
+    HW Presentations
+        Lillyan
+            Node.js
+                best for building fast scalable network applications
+                package manager
+                huge computation is bad
+                process files while updating
+                good for dashboards
+                bad for relational data, large computation
+            Demo: Frontend (bootstrap v Skeleton)
+                BootStrap
+                    tons of pre-written css
+                    gives you a bunch of options
+                Skeleton
+                    400 lines of css written
+                    easy to use
+                    same as boot strap, but less things to use
+                Bottomline: use bootstrap because it has a greater library
+        Annie
+            Ruby on Rails
+                made a small user/email app
+            Demo: Database (MongoDB)
+                RESOURCE: mongoDB university 
+                    for node.js
+                    for general devs
+                    etc.
+        Frank
+            Ruby on Rails
+                same as annie
+            Mean stack
+                partway -
+        Erin
+            Ruby v Node.js
+                ruby gives more out of the box
+                ruby, you have to learn rails, but way faster
+                js easy to pickup, but less build-in functions
+                Rails in the better choice
+            DC.js
+                there's a book
+                resources
+                DC.js
+                all the basics of D3.js
+            Bottomline: use Ruby, DC.js
