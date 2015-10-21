@@ -1,0 +1,24 @@
+Meeting 10-21-15
+    Practice problem: "max consecutive sum in a list"1z
+        introduced in version of question discussion
+        problem leader: Lillyan
+        talked about strategies for solving coding problems
+    Tech Presentations
+        RubyonRail+DC : Erin
+            making a blog
+            DC didn't work
+            FINAL THOUGHTS: No, couldn't get dc to work
+        RubyonRails +DC : Lillyan
+            made a blog
+            dc works with Ruby
+                made css work
+            FINAL THOUGHTS: Ruby okay, but maybe we can find something better
+        MEAN : Frank
+            to do list
+            FINAL THOUGHTS: works, but better with react
+        MONGO+DC+node
+            data dashboard
+            FINAL THOUGHTS: tutorial helps, and dc runs smoother than ruby.
+    HW
+        everyone, do the tutorial
+        me: make fake data
