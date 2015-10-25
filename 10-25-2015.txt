@@ -1,0 +1,17 @@
+Meeting 10-25-15
+    Coding Question
+        Find lowest cost path in 2-D Array (Google, Dynamic Programming)
+    First Iteration
+        Functionality
+            Interactive graphs (D3/DC.js) -> Lillyan
+            Water quality alerts (twilio) -> Erin
+            Quick status of well          -> Annie
+            Data history download         -> Peaky
+            Dynamically load new data     -> Frank
+        Will have 2 sections:
+            Real-time data
+            Data analytics tools
+    Done today
+        Discussed basic graphs for viewing and analyzing data
+        set up github repo
+        started working
