@@ -1,0 +1,6 @@
+Meeting 10-18-15
+    Justin Ran meeting
+        worked on a project using the previously chosen technology
+            Erin/Lillyan - RonR+mongoDB
+            Annie        - nodeJS+express+mongoDB
+            Frank        - angularJS+mean stack
