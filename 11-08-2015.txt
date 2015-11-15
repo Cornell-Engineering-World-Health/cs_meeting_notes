@@ -1,0 +1,39 @@
+Meeting 11-08-15
+    Coding Question:
+        google constant runtime bag (add, remove, get random, array+hash)
+        Lead: Annie
+    Who are the users?
+        Forfront employees
+            interests
+                quickly view water quality
+                data analytic tools to find casue of water quality problem 
+        Forfront patrons
+            interests
+                where is there money going
+                how is it being put to use
+                how much positive good are they achieving
+    Questions we want to answer:
+        What causes bad water quality?
+        do people notice changes in water quality?
+        how much do people depend on the well?
+        how long does it take for water quality to become bad/good?
+        frequency of well use?
+    Graphs
+        Data Analytics:
+            line graph
+                displaying:
+                    pH
+                    Temp
+                    Turbidity
+                    conductivity
+                x-axis: time
+                y-axis: variable (based on good, okay, bad benchmarks)
+                users may select any number of the 4 and view them
+                they can see the point they are hovering over and what the relative data point values are
+            History of Water Quality metric (0-100) Users select a subset of the data here
+        People data:
+            bar graph
+                gallons v time
+            dot graph
+                x-axis: water qulaity (0-100)
+                y-axis: gallons (taken at one time)
