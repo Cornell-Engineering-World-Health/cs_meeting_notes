@@ -1,0 +1,22 @@
+Meeting 11-15-15
+    Coding question:
+        heap+hashmap from game design optimization problem
+        Erin lead disscusion
+        finished quckly
+    Updates on individual assignments
+        Lillyan:
+            graphs mostly working, but all JS in html page
+            Blocker = how to get water quality number (0-100)
+            Blocker fixed
+        Annie:
+            Assigned to write up water quality logic 
+            Otherwise some middle tier isue, but mostly good
+        Erin:
+            got email server to send emails
+            now needs to connect to backend
+        Frank:
+            currently working with display graphs
+            and getting data from mongo
+        Peaky:
+            export button that takes all data from database and gives file
+            needs to think about what hapens when data gets really large
