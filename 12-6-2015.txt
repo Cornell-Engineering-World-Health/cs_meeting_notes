@@ -1,0 +1,12 @@
+Meeting 12-6-15
+    Skipped coding question and got straight to work
+    Aggregated each of our separate pieces:
+        Erin -> email alerts
+        Annie -> status update
+        Frank -> DB/infrastructure
+        Lillyan -> graphs
+        Peaky -> data history
+    Result:
+        1st iteration:
+            without all graphs
+            mocking the injection of data
