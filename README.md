@@ -1,2 +1,2 @@
 # meeting_notes
-This repo contains the meeting notes from every meeting
+This repo contains the cs meeting notes from every meeting
