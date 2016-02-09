@@ -1,0 +1,8 @@
+Meeting 2-3-16
+    Discussion Session
+        coding question (skipped, Peaky's fault)
+        Team planned schedule
+            Weeks 1-4 -> graphs (Lillyan, Erin)
+            Weeks 2-5 -> GSM connection (Annie, Frank, Peaky)
+            Weeks 5-. -> prettines
+            Weeks after prettiness-. -> backlogged features (profiles, multi-wells)

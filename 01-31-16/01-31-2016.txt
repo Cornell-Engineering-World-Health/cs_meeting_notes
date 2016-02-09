@@ -1,0 +1,16 @@
+Meeting 1-31-16
+    First meeting of the year
+        New coding question rules:
+            1 team leader (different each time)
+            45 min (actual interview time)
+            1/week (weds only)
+        New meeting schedule
+            weds -> Discussion session
+                designed to help us stay aligned with what we are doing on sun's
+                Leadership development
+                other concerns
+            sun  -> work session
+                no coding Qs
+                no BS
+                just coding/communicating
+        Coding question: how to check for deadlock in a program

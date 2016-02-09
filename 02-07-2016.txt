@@ -1,0 +1,30 @@
+Meeting 2-7-16
+    Work session
+        Check all stuff made last semester is still working
+        Desnigate new functionality leads (like PM's for a particular feature)
+            they will controll deadlines, assignments, grading for the members during their time
+            Features:
+                Graphs - Lillyan
+                    Team
+                        Erin
+                GSM Connection - Annie
+                    Team
+                        Frank
+                        Peaky
+                Prettiness - Erin
+                    Team
+                        undecided
+        Discussed new graphs (see picture)
+            Main graph
+                data time line with history
+                displays 0-100 water quality score
+                can select a variable (temp, turbidity, pH, conductivity, usage) to view
+                    axis should change
+            Under main graph (4 smaller graph depicting the actaul value)
+                1. temp -> thermometer graph
+                2. turbidity -> circle with score and color of water
+                3. pH -> line pH scale
+                4. conductivity -> pi graph 0-1.0
+            Under those (usage graphs)
+                1. avg usage at time of day
+                2. usage x quality

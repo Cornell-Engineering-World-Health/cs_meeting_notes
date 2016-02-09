@@ -1,0 +1,40 @@
+Meeting 1-31-16
+    First meeting of the year
+        New coding question rules:
+            1 team leader (different each time)
+            45 min (actual interview time)
+            1/week (weds only)
+        New meeting schedule
+            weds -> Discussion session
+                designed to help us stay aligned with what we are doing on sun's
+                Leadership development
+                other concerns
+            sun  -> work session
+                no coding Qs
+                no BS
+                just coding/communicating
+        Coding question: how to check for deadlock in a program
+        What is our product?
+            who are our users?
+                Frontier water quality employees
+                Investors
+                Lay people
+            what are their needs?
+                Employees
+                    to be able to perform analysis on data
+                    to easily read/understand data
+                    to be notified when urgent
+                    to separate data from different wells
+                Investors/Lay People
+                    to see basic well status
+                    to see progress/effectiveness of well overtime
+                    to see cause of issue
+                    to see impact of Frontier work
+                    to see a pretty site
+            what features does this correlate to?/what is missing?
+                how will we recieve data?
+                what data will we recieve?
+                extended graphs
+                prettiness
+                multi-well design
+                profiles
