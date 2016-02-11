@@ -1,0 +1,21 @@
+Meeting 2-10-16
+    Discussion Session
+        Outlined expectation for feature leads
+        Feature schedules
+            Graphs (Lillyan)
+                wk2 - Overall Graph, Cond graph, turbidity graph
+                wk3-4 - temp, usage, pH
+            Prettiness (Erin)
+                wk4 - assign descriptions for about page
+                wk5 - tool tips for incructions for web app
+                wk6-7-8 - make everything work
+                    Features
+                        about page
+                        instuctions page
+            Connection (Annie)
+                wk1-3 - research
+                wk4-6 - implement
+                    notes
+                        may use bluetooth with android app
+                        sever options?
+                        GSM connection?
