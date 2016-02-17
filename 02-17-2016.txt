@@ -1,0 +1,12 @@
+Meeting 2-17-16
+    Feature leads will set expecrtation for sunday's work session so we stay on target
+        Erin -> Prettiness
+        Lillyan -> graphs
+        Annie -> data reception
+        Frank -> misc
+    Programming question
+        8-Queens
+            Lead -> Lillyan
+            learning point
+                local search
+                simulated annealing
