@@ -1,5 +1,5 @@
 Meeting 2-17-16
-    Feature leads will set expecrtation for sunday's work session so we stay on target
+    Feature leads will set expectation for sunday's work session so we stay on target
         Erin -> Prettiness
         Lillyan -> graphs
         Annie -> data reception
