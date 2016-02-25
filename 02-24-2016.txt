@@ -1,0 +1,50 @@
+Meeting 2-24-16
+    Website Layout and design with guest star Theresa
+        Lillyan
+            drew the current layout
+            explained the different features to Theresa
+                section1 - water quality
+                    Overall graph (1 line, 5 selectors, data time range underneath)
+                        Overall (0-100 scaled values, overall water quality v. time)
+                        pH (0-12ish, pH v. time)
+                        conductivity (0.0-1.0, conductivity v. time)
+                        Temperature (dependent, temp. v. time)
+                        Turbidity (dependent, turbidity v. time)
+                    Sub graphs (below overall graph, allow user to select a point on overall graoh and break down variable values)
+                        pH
+                            pH meter
+                            color may vary with safe/unsafe bounds
+                        Temp
+                            singe bar graph
+                            color may vary with temp
+                        Conductivity
+                            pichart that is like a thin line going around in circle
+                            color varies with safe/unsafe
+                        Tubidity
+                            circle filled with a single color
+                            may have waves to denote water (in this case only water is filled
+                            color varies with the percieved color of the water
+                section2 - Local Water Usage
+                    Water Quality v. Water Usage
+                        line graph
+                        data time range selector, like above overall graph, underneath
+                    Daily usage (displayed usage over a day)
+                        historgraph
+                        x-axis: 8-10 am, 10-12, etc. (time)
+                        y-axis: how much water taken from well during time range
+                        data will be the date selected from overall or water usage (they will be linked)
+                        ranges can only be selected in single day intervals
+                section3 - contact, get email notifications, export data
+                        input section for email, to receive notifications on water quality status
+                        contact info to learn more
+                        export data options
+        Design Review Presentation outline
+            introduction of purpose and goal of web app
+            intended user base and needs
+            how have we converted those needs into functionalities
+            introduce graph design (basic lay out, grid like)
+                water quality section
+                water usage section
+                contacts/data/more
+            Demo of current graphs
+            Questions
