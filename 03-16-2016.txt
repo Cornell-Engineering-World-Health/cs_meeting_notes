@@ -1,0 +1,13 @@
+03-16-16
+    Lillyan
+        schedule for the April 8th forefront deadline
+            3/20 - update schema to accurately represent data that will be recieved
+                conductivity 3 values
+            3/27 - finish individual graphs/overall graphs
+            4/3  - integrate all graphs together
+    Tereasa
+        Design
+            Blurred black background
+            partitioned squares for the individual graphs
+            header and footer creative freedom
+            
